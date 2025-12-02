@@ -3,7 +3,7 @@
   <a href="https://github.com/williamfenali">
     
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfenali&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-  <!-- <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=williamfenali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=williamfenali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Linguagens estudas
