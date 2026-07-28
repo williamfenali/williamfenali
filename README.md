@@ -1,6 +1,4 @@
-## Olá eu sou o William Fenali!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamfenali)](https://github.com/anuraghazra/github-readme-stats)
+## Olá, eu sou o William Fenali!
 
 ## Linguagens estudas
 <div style="display: inline_block"><br>
@@ -33,9 +31,9 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williamfenali/williamfenali/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/williamfenali/williamfenali/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/williamfenali/williamfenali/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
