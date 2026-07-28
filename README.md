@@ -1,5 +1,7 @@
 ## Olá eu sou o William Fenali!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamfenali)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Linguagens estudas
 <div style="display: inline_block"><br>
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
